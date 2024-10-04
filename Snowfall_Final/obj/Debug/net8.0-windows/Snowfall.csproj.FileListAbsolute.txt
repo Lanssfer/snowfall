@@ -1,7 +1,0 @@
-C:\Users\bazlo\Downloads\Snowfall-master (2)\Snowfall-master\Snowfall_Final\obj\Debug\net8.0-windows\Snowfall_Final.Form1.resources
-C:\Users\bazlo\Downloads\Snowfall-master (2)\Snowfall-master\Snowfall_Final\obj\Debug\net8.0-windows\Snowfall.Properties.Resources.resources
-C:\Users\bazlo\Downloads\Snowfall-master (2)\Snowfall-master\Snowfall_Final\obj\Debug\net8.0-windows\Snowfall.csproj.GenerateResource.cache
-C:\Users\bazlo\Downloads\Snowfall-master (2)\Snowfall-master\Snowfall_Final\obj\Debug\net8.0-windows\Snowfall.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bazlo\Downloads\Snowfall-master (2)\Snowfall-master\Snowfall_Final\obj\Debug\net8.0-windows\Snowfall.AssemblyInfoInputs.cache
-C:\Users\bazlo\Downloads\Snowfall-master (2)\Snowfall-master\Snowfall_Final\obj\Debug\net8.0-windows\Snowfall.AssemblyInfo.cs
-C:\Users\bazlo\Downloads\Snowfall-master (2)\Snowfall-master\Snowfall_Final\obj\Debug\net8.0-windows\Snowfall.csproj.CoreCompileInputs.cache
